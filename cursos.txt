@@ -1,2 +1,4 @@
 phyton
 base de datos
+angular 9
+sass
